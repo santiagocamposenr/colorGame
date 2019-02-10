@@ -33,3 +33,7 @@ span {
 #message {
 	color: black;
 }
+
+.selected {
+	background-color: blue;
+}
